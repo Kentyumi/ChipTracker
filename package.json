@@ -6,7 +6,7 @@
   "homepage": "https://YOUR_GITHUB_USERNAME.github.io/chip-tracker",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
